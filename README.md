@@ -8,8 +8,6 @@ It accepts the following argument.
 
 1. `s` is the pointer that contains the state. Each state integer must be initialized with any combination of values.
 
-It returns a 64-bit unsigned integer pseudorandom number result.
-
 It's in the same class as any Xoroshiro/Xorshift/Xoshiro algorithm that uses 64-bit integers.
 
 It has a minimum period of 2²⁵⁶ without broken cycles.
