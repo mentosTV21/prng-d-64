@@ -14,7 +14,7 @@ It has a minimum period of 2²⁵⁶ without broken cycles.
 
 It has an approximated maximum period of 2³²⁰, although no cycle is guaranteed to reach a full period of 2³²⁰.
 
-Assigning a value of `0` to `a` and incrementing `d` by `1` behaves as an interdimensional jump function that starts a different cycle with a period of 2²⁵⁶.
+Assigning `0` to `a` and incrementing `d` by `1` behaves as an interdimensional jump function that starts a different cycle with a period of 2²⁵⁶.
 
 Zeroland escapes quickly after generating 3 subsequent numbers.
 
